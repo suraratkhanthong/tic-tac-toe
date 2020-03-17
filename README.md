@@ -1,3 +1,20 @@
+<h1>1.</h1>
+<div>
+  <img src="https://github.com/suraratkhanthong/tic-tac-toe/blob/master/111.png">
+</div>
+<h1>2.</h1>
+<div>
+  <img src="https://github.com/suraratkhanthong/tic-tac-toe/blob/master/222.png">
+</div>
+<h1>3.</h1>
+<div>
+  <img src="https://github.com/suraratkhanthong/tic-tac-toe/blob/master/333.png">
+</div>
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
