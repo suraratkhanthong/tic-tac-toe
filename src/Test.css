@@ -1,0 +1,103 @@
+body {
+    background: #defbff;
+    font-family: "Prompt", sans-serif;
+    color: #25282c;
+    font-size: 1.25rem;
+    font-weight: 300;
+}
+.block{
+    margin-top: -20px;
+}
+table > tr > td:hover{
+    background-color: aquamarine;
+}
+table{
+    border-collapse: unset !important;
+}
+table > tr > td{
+    
+    cursor: pointer;
+    width: 33%;
+    height: 160px;
+    text-align: center;
+    border-radius: 10%;
+}
+
+.value{
+    margin-top: -30px;
+    font-size: 90px;
+    /* color: tomato; */
+}
+.style-x{
+    color: tomato;
+    /* background-color: thistle; */
+    
+}
+.style-o{
+    color: rgb(3, 110, 211);
+}
+.btn-select{
+    display: inline-block;
+    /* border: 1px solid #dee2e6; */
+    cursor: pointer;
+    border-radius: 10%;
+    /* padding-left: 40px; */
+    margin-top: 30px;
+    width: 100px;
+    
+}
+.Ele-select{
+    height: 150px;
+}
+.txt-turn{
+    display: inline-block;
+    border-radius: 10%;
+    margin-top: 30px;
+    width: 100px;
+    /* background-color: rgb(83, 250, 17); */
+}
+.txt-new{
+    font-family: monospace;
+    font-size: 2.1em;
+    
+    margin-top: 30px;
+    color: teal;
+    text-decoration: underline;
+    cursor: pointer;
+}
+.btn-select:hover{
+    font-size: 110px;
+    margin-top: -30px;
+}
+.txt-select{
+    font-family: monospace;
+    font-size: 2.1em;
+    font-weight: bold;
+    /* margin-left: 30px; */
+    color: teal;
+}
+.table-bordered{
+    border:unset !important;
+}
+
+
+.jumbotron {
+    padding: 2rem 1rem !important;
+    background-color: #01c1f1 !important;
+    color: #fff;
+    margin-top: 10px;
+    box-shadow: 2px 3px 6px 0px rgba(0,0,0,0.4);
+    border-radius: 8px;
+}
+.table-bordered td {
+    
+   border-color: tomato;
+    
+}
+.block-select{
+    display: inline-block;
+    /* border: 1px solid #dee2e6; */
+    height: 150px;
+    margin-top: 60%;
+    border-radius: 10%;
+}
